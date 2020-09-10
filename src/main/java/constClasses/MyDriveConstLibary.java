@@ -2,6 +2,7 @@ package constClasses;
 
 public class MyDriveConstLibary {
     public final static String LAUFWERK_A = "A:";
+    public final static String LAUFWERK_AA = "AA:";
     public final static String LAUFWERK_B = "B:";
     public final static String LAUFWERK_C = "C:";
     public final static String LAUFWERK_D = "D:";
