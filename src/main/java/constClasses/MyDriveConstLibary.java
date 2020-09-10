@@ -27,4 +27,5 @@ public class MyDriveConstLibary {
     public final static String LAUFWERK_X = "X:";
     public final static String LAUFWERK_Y = "Y:";
     public final static String LAUFWERK_Z = "Z:";
+    public final static String LAUFWERK_AA = "AA:";
 }
