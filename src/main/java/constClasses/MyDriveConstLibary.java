@@ -6,6 +6,7 @@ public class MyDriveConstLibary {
     public final static String LAUFWERK_B = "B:";
     public final static String LAUFWERK_BB = "BB:";
     public final static String LAUFWERK_C = "C:";
+    public final static String LAUFWERK_CC = "CC:";
     public final static String LAUFWERK_D = "D:";
     public final static String LAUFWERK_E = "E:";
     public final static String LAUFWERK_F = "F:";
